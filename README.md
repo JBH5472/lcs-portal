@@ -1,0 +1,2 @@
+# lcs-portal
+School portal
